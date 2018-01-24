@@ -1,4 +1,4 @@
-# Scylla
+# Scylla - An extensible BPMN process simulator
 
 Scylla is an extensible BPMN simulator which relies on the building blocks of discrete event simulation. The simulator is based on a plug-in architecture and implemented in the Java programming language.
 
